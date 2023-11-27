@@ -27,28 +27,57 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 
 ## Procedure
 
-
-
-Write the detailed procedure here 
-
+1. Connect the supply (+5V) to the circuit.
+2. Switch ON the main switch.
+3. If the output is 1, then the led glows.
 
 ## Program:
-/*
+
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+
+Developed by : PRIYA DHARSHINI R K
+
+Register Number : 23000894
+
+Code :
+
+Half Subtractor :
+
+![image](https://github.com/rkpriyadharshini0420/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151533322/fa73340b-9011-4e05-a681-adba6b6b630c)
+
+Full Subtractor :
+
+![image](https://github.com/rkpriyadharshini0420/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151533322/5ba0906a-440a-431a-9e8a-02e6f64dd966)
+
+Truthtable :
+
+Half Subtractor :
+
+![267699989-78af586e-1adf-4892-9544-04c5bfe2d3ca](https://github.com/rkpriyadharshini0420/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151533322/5223903a-6caa-4a9a-ba99-fd5e03ae0829)
+
+Full Subtractor :
+
+![267700583-a9b18974-158f-4ff9-8fc8-4d568fbf95f9](https://github.com/rkpriyadharshini0420/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151533322/ba229620-263e-4217-b6e6-e899ed8baffb)
+
+RTL realization :
+
+Half Subtractor :
+
+![267701085-7364d45f-9d82-430b-81e9-2ff55b8bd689](https://github.com/rkpriyadharshini0420/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151533322/ddefbda2-71bc-4d28-9e61-eeec2afe4bd3)
+
+Full Subtractor :
+
+![267701128-132fc82f-d262-4cbc-9850-86339dc4cb9b](https://github.com/rkpriyadharshini0420/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151533322/f04cae7d-9a8a-457f-91f0-adab86b41f98)
 
 ## Output:
 
-## Truthtable
+Half Subtractor :
 
+![267701235-9a4af079-d35e-43e5-8690-9d390d041fb6](https://github.com/rkpriyadharshini0420/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151533322/6fecddca-7234-490c-af60-53b399e0e1bb)
 
+Full Subtractor :
 
-##  RTL realization
-
-
-## Timing diagram 
+![267701298-5ea55e95-6c55-44f9-a5f8-938858e6876f](https://github.com/rkpriyadharshini0420/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/151533322/304620dc-0fec-4d11-a595-570e033ea241)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
